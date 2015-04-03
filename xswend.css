@@ -10,11 +10,12 @@ left: 0;
 .menu ul {
   list-style: none;
   padding: 0;
+  line-height: 50px;
 }
 .menu li {
   display: inline-block;
   color: white;
-  line-height: 50px;
+  padding: 10px 10px 10px 10px;
   margin-right: 10px;
   border: 1px solid white;
   border-radius: 5px;
